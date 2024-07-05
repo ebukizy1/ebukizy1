@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**ebukizy1/ebukizy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGdOAptsi4N1w/profile-displaybackgroundimage-shrink_350_1400/0/1667151249689?e=1694044800&v=beta&t=CSQ1wIPbarJ86P9YhznMhZTbu-3wyQKnw1Et12kCUCE)
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there 👋, I'm Chukwuma Emmanuel Ebuka</h1>
+<h3 align="center">Backend Engineer & Smart Contract Developer | Skilled in Java, JavaScript, Python, Go, Spring Boot, and Solidity</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about building scalable backend systems and secure smart contracts. Currently diving deeper into the world of blockchain and decentralized applications.
+
+- 🔭 I’m currently working on cutting-edge Web3/Blockchain/Ethereum projects.
+- 🌱 I’m currently learning **Go** to expand my backend development skills.
+- 🏆 I’ve won several Web3 hackathons.
+- 👯 I’ve collaborated on projects like [👯PeerLend p2p lending and borrowning dapp👯](https://github.com/orgs/P2P-Lending-Protocol/repositories) & [🔭Bluma event ticketing/social dapp🔭](https://github.com/orgs/Bluma-Protocol/repositories).
+- 🤝 I have a strong interest in **Web 3.0** and decentralized technologies.
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/ebukizy1?tab=repositories).
+- 📝 I share my knowledge through articles on [Medium](https://medium.com/@ebukizy1).
+- 📫 You can reach me at **ebukizy1@gmail.com**.
+- 📄 Check out my resume [here](https://flowcv.com/resume/your-resume-link).
+- ⚡ Fun fact: I love coding and travelling.
+- 💬 Ask me about **Java, Spring Boot, Python, Django, GO, Solidity, PostgreSQL, MySQL**.
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia" alt="your-username" /></a> </p>
+
+## 🔧 Technology & Tools
+
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=cc338b)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=cc338b)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=cc338b)
+![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=spring&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Library-Ethers%20JS-informational?style=flat&logo=ethereum&logoColor=white&color=cc338b)
+![](https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwindCSS&logoColor=white&color=cc338b)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=cc338b)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
+![](https://zx?style=flat&logo=npm&logoColor=white&color=cc338b)
+
+## 📫 Contact
+
+I love connecting with and meeting new people <img src="assets/blob-sunglasses.gif" alt="" style="width: 20px; height: 20px; vertical-align: middle;">. Connect with me and let's talk about ideas, opportunities, and random things. You can say hi to me on:
+
+<a href="https://www.linkedin.com/in/chukwuma-emmanuel-755370254/"><img src="https://img.shields.io/badge/Chukwuma Emmanuel Ebuka-informational?style=flat&logo=linkedin&logoColor=white&color=cc338b"></a>
+<a href="https://github.com/ebukizy1"><img src="https://badgen.net/badge/icon/github?icon=github&label"></a>
+<a href="https://twitter.com/ebukizy4u"><img src="https://img.shields.io/badge/@your-twitter-informational?style=flat&logo=twitter&logoColor=white&color=cc338b"></a>
+<a href="mailto:ebukizy1@gmail.com"><img src="https://img.shields.io/badge/your-email@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=6aa6f8"></a>
+
+## 📈 GitHub Stats
+
+[![Ebuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebukizy1&show_icons=true&theme=dracula&hide=issues)](https://github.com/ebukizy1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebukizy1&layout=compact&hide=c&langs_count=6)](https://github.com/ebukizy1/github-readme-stats)
+
