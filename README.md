@@ -10,19 +10,19 @@
 - 🔭 I’m currently working on projects that integrate blockchain technology to build advanced applications.
   
 - 🌱 I’m expanding my backend development skills with **Go**.
-- 
+
 - 🤝 I have a strong interest in **Web 3.0** and decentralized technologies.
-- 
+ 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/ebukizy1?tab=repositories).
-- 
+ 
 - 📝 I share my knowledge through articles on [Medium](https://medium.com/@ebukizy1).
-- 
+ 
 - 📫 You can reach me at **ebukizy1@gmail.com**.
-- 
+ 
 - 📄 Check out my resume [here]().
-- 
+ 
 - ⚡ Fun fact: I love coding and travelling.
-- 
+ 
 - 💬 Ask me about **Java, Spring Boot, Python, Django, GO, Solidity, PostgreSQL, MySQL**.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia" alt="your-username" /></a> </p>
