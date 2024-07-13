@@ -2,21 +2,27 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQGdOAptsi4N1w/profile-displaybackgroundimage-shrink_350_1400/0/1667151249689?e=1694044800&v=beta&t=CSQ1wIPbarJ86P9YhznMhZTbu-3wyQKnw1Et12kCUCE)
 
 <h1 align="center">Hi there 👋, I'm Chukwuma Emmanuel Ebuka</h1>
-<h3 align="center">Backend Engineer & Smart Contract Developer | Skilled in Java, JavaScript, Python, Go, Spring Boot, and Solidity</h3>
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 🚀 Passionate about building scalable backend systems and secure smart contracts. Currently focusing on leveraging blockchain as a tool to create innovative applications.
 
 - 🔭 I’m currently working on projects that integrate blockchain technology to build advanced applications.
+  
 - 🌱 I’m expanding my backend development skills with **Go**.
-🏆 I have successfully participated in and won several Web3 hackathons.
-- 👯 I’ve collaborated on projects like [👯PeerLend p2p lending and borrowning dapp👯](https://github.com/orgs/P2P-Lending-Protocol/repositories) & [🔭Bluma event ticketing/social dapp🔭](https://github.com/orgs/Bluma-Protocol/repositories).
+- 
 - 🤝 I have a strong interest in **Web 3.0** and decentralized technologies.
+- 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/ebukizy1?tab=repositories).
+- 
 - 📝 I share my knowledge through articles on [Medium](https://medium.com/@ebukizy1).
+- 
 - 📫 You can reach me at **ebukizy1@gmail.com**.
-- 📄 Check out my resume [here](https://flowcv.com/resume/your-resume-link).
+- 
+- 📄 Check out my resume [here]().
+- 
 - ⚡ Fun fact: I love coding and travelling.
+- 
 - 💬 Ask me about **Java, Spring Boot, Python, Django, GO, Solidity, PostgreSQL, MySQL**.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia" alt="your-username" /></a> </p>
